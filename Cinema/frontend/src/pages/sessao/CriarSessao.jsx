@@ -85,7 +85,7 @@ const CriarSessao = () => {
       <form onSubmit={handleSubmit}>
         <h2>Adicionar Sessão</h2>
         <div>
-          <label htmlFor="movieId">ID do Filme:</label>
+          <label htmlFor="movieId">Filme:</label>
           <select
             id="movieId"
             name="movieId"
